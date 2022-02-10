@@ -1045,7 +1045,7 @@ a {
 }
 .cid-sRuBvzOCAK .mbr-text,
 .cid-sRuBvzOCAK .mbr-section-btn {
-  color: #ffffff;
+  color: #e43f3f;
 }
 .cid-sRuBzpx9Sn {
   padding-top: 3rem;
@@ -1079,19 +1079,16 @@ a {
 }
 .cid-sRuBzpx9Sn .mbr-text,
 .cid-sRuBzpx9Sn .mbr-section-btn {
-  color: #ffffff;
+  color: #e43f3f;
 }
 .cid-sRuzYoDeUc {
   padding-top: 6rem;
-  padding-bottom: 0rem;
+  padding-bottom: 6rem;
   background-color: #000000;
 }
 .cid-sRuzYoDeUc img,
 .cid-sRuzYoDeUc .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
 .cid-sRuzYoDeUc .item:focus,
 .cid-sRuzYoDeUc span:focus {
@@ -1128,7 +1125,6 @@ a {
 .cid-sRuzYoDeUc .mbr-text,
 .cid-sRuzYoDeUc .mbr-section-btn {
   text-align: left;
-  color: #000000;
 }
 .cid-sRuzYoDeUc .item-title {
   text-align: left;
@@ -1136,16 +1132,6 @@ a {
 }
 .cid-sRuzYoDeUc .item-subtitle {
   text-align: left;
-}
-.cid-sWYeHcv5go {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #000000;
-}
-.cid-sWYeHcv5go .mbr-section-btn {
-  justify-content: space-between;
-  display: flex;
-  flex-wrap: wrap;
 }
 .cid-sRuE2hbJ11 {
   background-image: url("../../../assets/images/school-work-gb63cd6431-1920.jpg");
